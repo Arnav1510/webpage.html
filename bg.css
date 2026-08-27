@@ -1,0 +1,12 @@
+body {
+    background-color: cadetblue;
+
+}
+h3 {
+    font: bold;
+}
+img {
+    border: 1px dotted blue;
+    height: 500px;
+    width: 800px;
+}
